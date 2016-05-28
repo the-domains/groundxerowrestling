@@ -1,0 +1,28 @@
+name: GroundXeroWrestling
+favicon: null
+layout_spectrum: 0.5635953857563436
+typography_spectrum: 0.6763491351157427
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.6702838218770921
+  lightness: 0.20514152781106532
+  saturation: 0.8434717019554228
+  rhythmicContrast: 0.641730930423364
+purpose: []
