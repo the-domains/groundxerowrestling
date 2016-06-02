@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[GroundXeroWrestling]]></title>
+        <description><![CDATA[GroundXeroWrestling]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 02 Jun 2016 12:24:11 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[250cc Superhero]]></title>
+            <description><![CDATA[<article><h1>250cc Superhero</h1><p>A scooter may seem like an unlikely touring vehicle, but so far it's proven to be perfect for me. The GTS 250 is powerful enough that I can keep up on the highway, but small enough to throw around. The low center of gravity is especially great to flick around cities.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/32c84d664d80ba46b3b157a75782772c900661b0.jpg"></article>]]></description>
+            <link>http://250superhero.blogspot.com/p/about-the.html</link>
+            <guid isPermaLink="false">8a8487c4-14c4-4fb3-b597-007a88d10da2</guid>
+            <pubDate>Thu, 02 Jun 2016 12:24:10 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
